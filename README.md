@@ -1,2 +1,2 @@
 # Employee-Management-System
-Project on Employee Management System website for IOCL internship
+Project on Employee Management System for IOCL
